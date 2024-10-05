@@ -119,13 +119,6 @@ ol {
   position: relative;  
 }
 
-.preloader {
-  position: absolute;  
-  top: 50%;            
-  left: 50%;  
-  z-index: 10;             
-}
-
 .search-form__fieldset-title {
   border-bottom: 1px solid #fff; 
   padding: 0 0 5px 0;
